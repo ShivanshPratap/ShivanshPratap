@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shivansh Pratap</h1>
-<h3 align="center">Hi, this is Shivansh Pratap. I'm a CS student interested in Data Science, Data Analytics, Data Engineering and ML-AI-related things</h3>
+<h1 align="center">Hi 👋, this is Shivansh Pratap</h1>
+<h3 align="center">I'm a CS student interested in Data Science, Data Analytics, Data Engineering and ML-AI-related things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshpratap&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshpratap" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Hi, this is Shivansh Pratap. I'm a CS student interested in Data Science, Data Analytics, Data Engineering and ML-AI-related things and seeking a position to utilize my skills and abilities in the Industry that offers professional growth while being resourceful, innovative and flexible.**
+- 💬 Ask me about **Data Science, Data Analytics, Data Engineering and ML-AI-related things**
 
 - 📫 How to reach me **shivansh.connect30@gmail.com**
 
